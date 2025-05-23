@@ -39,6 +39,10 @@
             <artifactId>quarkus-rest</artifactId>
         </dependency>
         <dependency>
+          <groupId>io.quarkus</groupId>
+          <artifactId>quarkus-rest-jackson</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson-quarkus-30</artifactId>
             <version>3.46.0</version>
