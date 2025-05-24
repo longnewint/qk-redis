@@ -1,4 +1,5 @@
 # qk-redis
+test0
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
