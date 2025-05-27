@@ -4,6 +4,7 @@ cm1
 cm2
 cm3
 cm4
+cm5
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
