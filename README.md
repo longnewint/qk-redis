@@ -1,8 +1,6 @@
 # qk-redis
 
 
-## Provided Code
-
 ### REST
 
 Easily start your REST Web Services
