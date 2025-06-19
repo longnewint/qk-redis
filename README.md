@@ -1,3 +1,4 @@
 # qk-redis
+c0
 
 
